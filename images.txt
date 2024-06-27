@@ -6,7 +6,7 @@ nginx:1.25.0
 nacos/nacos-server:v2.3.2
 mysql:5.7.40
 redis:latest
-sonatype/nexus3
+sonatype/nexus3:latest
 gogs/gogs:latest
 grafana/grafana
 portainer/portainer
