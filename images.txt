@@ -15,5 +15,5 @@ centos:7
 openjdk:8
 postgis/postgis:13-3.4
 --platform=linux/arm64 elasticsearch:7.17.22
---paltform=linux/arm64 kibana:7.17.22
---paltform=linux/arm64 logstash:7.17.22
+--platform=linux/arm64 kibana:7.17.22
+--platform=linux/arm64 logstash:7.17.22
