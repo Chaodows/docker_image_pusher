@@ -14,3 +14,5 @@ sameersbn/bind:9.16.1-20200524
 centos:7
 openjdk:8
 postgis/postgis:13-3.4
+--platform=linux/arm64 elasticsearch:7.17.22
+
