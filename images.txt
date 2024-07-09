@@ -17,3 +17,6 @@ postgis/postgis:13-3.4
 --platform=linux/arm64 elasticsearch:7.17.22
 --platform=linux/arm64 kibana:7.17.22
 --platform=linux/arm64 logstash:7.17.22
+elasticsearch:7.17.22
+kibana:7.17.22
+logstash:7.17.22
