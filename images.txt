@@ -22,3 +22,4 @@ kibana:7.17.18
 logstash:7.17.18
 quay.io/prometheus/node-exporter:latest
 prom/prometheus:latest
+google/cadvisor:latest
