@@ -24,4 +24,7 @@ logstash:7.17.18
 quay.io/prometheus/node-exporter:latest
 prom/prometheus:latest
 google/cadvisor:latest
+nacos/nacos-server:v2.4.0.1
+--platform=linux/arm64 nacos/nacos-server:v2.4.0.1
+
 
