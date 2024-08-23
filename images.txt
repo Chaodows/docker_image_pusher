@@ -26,5 +26,6 @@ prom/prometheus:latest
 google/cadvisor:latest
 nacos/nacos-server:v2.4.0.1
 --platform=linux/arm64 nacos/nacos-server:v2.4.0.1
-
+minio/minio:RELEASE.2024-08-17T01-24-54Z
+--platform=linux/arm64 minio/minio:RELEASE.2024-08-17T01-24-54Z
 
