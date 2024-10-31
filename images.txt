@@ -30,3 +30,5 @@ minio/minio:RELEASE.2024-08-17T01-24-54Z
 --platform=linux/arm64 minio/minio:RELEASE.2024-08-17T01-24-54Z
 jenkins/jenkins:latest
 jenkins/jenkins:2.455-jdk11
+jenkins/jenkins:2.479.1
+
