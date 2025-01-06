@@ -18,11 +18,11 @@ postgis/postgis:13-3.4
 --platform=linux/arm64 elasticsearch:7.17.18
 --platform=linux/arm64 kibana:7.17.18
 --platform=linux/arm64 logstash:7.17.18
---platform=linux/arm64 filebeat:7.17.18
+--platform=linux/arm64 elastic/filebeat:7.17.18
 elasticsearch:7.17.18
 kibana:7.17.18
 logstash:7.17.18
-filebeat:7.17.18
+elastic/filebeat:7.17.18
 quay.io/prometheus/node-exporter:latest
 --platform=linux/arm64 prom/prometheus:latest
 prom/prometheus:latest
