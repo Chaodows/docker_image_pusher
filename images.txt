@@ -40,7 +40,8 @@ sonarqube:9.9.8-community
 --platform=linux/arm64 sonarqube:9.9.8-community
 postgres:13.18
 --platform=linux/arm64 postgres:13.18
-
+onlyoffice/documentserver
+--platform=linux/arm64 onlyoffice/documentserver
 
 
 
