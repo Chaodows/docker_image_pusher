@@ -13,7 +13,7 @@ portainer/portainer
 sameersbn/bind:9.16.1-20200524
 centos:7
 centos:7.9.2009
-openjdk:8
+--openjdk:8
 postgis/postgis:13-3.4
 --platform=linux/arm64 elasticsearch:7.17.18
 --platform=linux/arm64 kibana:7.17.18
