@@ -42,6 +42,7 @@ postgres:13.18
 --platform=linux/arm64 postgres:13.18
 onlyoffice/documentserver
 --platform=linux/arm64 onlyoffice/documentserver
+tuleap/tuleap-community-edition:latest
 
 
 
